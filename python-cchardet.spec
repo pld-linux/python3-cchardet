@@ -9,7 +9,7 @@ Summary:	cChardet - high speed universal character encoding detector
 Summary(pl.UTF-8):	cChardet - szybki, uniwersalny wykrywacz kodowania znaków
 Name:		python-cchardet
 Version:	2.1.5
-Release:	4
+Release:	5
 License:	MPL v1.1
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/cchardet/
